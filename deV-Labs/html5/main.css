@@ -7,8 +7,8 @@ font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Oxygen', sans-serif;*/
 
 body{
-	background-color: #FFFFFF;
-	color: #000000;
+	background-color: #00295c;
+	color: #FFFFFF;
 	font-size: 16px;
 	font-family: 'Oxygen', sans-serif;
 	font-weight: 400;
@@ -26,5 +26,5 @@ body{
 	 font-size: 50px;
 	 font-family: 'Roboto',  sans-serif;
 	 font-weight: 200;
-	 color: black;
+	 color: #40E0D0;
 	}
